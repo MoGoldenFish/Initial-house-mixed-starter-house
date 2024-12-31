@@ -1,2 +1,2 @@
-# Initial-House
-A Minecraft Mod that adds initial structure at the world's spawn point for modpack “The Winter Frontier”
+Copy from https://github.com/Viola-Siemens/Initial-House and https://github.com/Serilum/Starter-Structure
+
